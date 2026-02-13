@@ -4,7 +4,7 @@ subtitle: "SDS 192"
 author: 
 - name: Ysabella Leonelli
   affiliation: Smith College
-- name: Author Two
+- name: Steph
   affiliation: Smith College
 - name: Eliel Toukam Nkamta
   affiliation: Smith College
