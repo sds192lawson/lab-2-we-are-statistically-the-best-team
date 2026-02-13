@@ -1,3 +1,3 @@
 * Jericho Lawson
 * Jane Doe
-* ADD NAME 3 HERE
+* Ysabella Leonelli, Eliel Toukam Nkamta, Steph Krieger
